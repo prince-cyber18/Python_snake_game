@@ -19,24 +19,6 @@ A classic Snake Game built using Python and Pygame. This project helped me pract
 - Pygame
 - Random module
 
-📥 Installation and Setup
-
-1. Clone the repository
-
-git clone YOUR_GITHUB_REPOSITORY_URL
-
-2. Navigate to the project folder
-
-cd snake_game
-
-3. Install Pygame
-
-python -m pip install pygame
-
-4. Run the game
-
-python snake_game.py
-
 🎮 Game Controls
 
 Key| Action
@@ -46,14 +28,6 @@ Key| Action
 →| Move Right
 SPACEBAR| Pause / Resume
 Close Window| Exit Game
-
-📂 Project Structure
-
-Snake-Game/
-│
-├── snake_game.py
-├── README.md
-└── requirements.txt
 
 🧠 Concepts Practiced
 
